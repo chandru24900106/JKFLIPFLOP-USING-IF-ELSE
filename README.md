@@ -1,7 +1,7 @@
 ### name chandru v
 ### reg no : 212224230043
 ### ex 07
-# JKFLIPFLOP-USING-IF-ELSE
+# JKFLIPFLOP USING IF ELSE
 
 **AIM:** 
 
